@@ -23,6 +23,7 @@ return(
            Reset
         </button><br/>
         <h4>{parseFloat(value)}$ to {value*33.35.toFixed(2)} baht</h4>
+        <img src="/Octocat.png"/>
         </>
     );
 }
